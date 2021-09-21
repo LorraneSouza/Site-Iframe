@@ -1,0 +1,15 @@
+body{
+	text-align: center;
+	background-image: url(../Paises/img/fundo1.jpg);
+	background-repeat: repeat;
+}
+
+h2, h3{
+	margin: 1rem;
+	color: white;
+}
+
+li{
+	margin: 0.35rem;
+	color: white;
+}
